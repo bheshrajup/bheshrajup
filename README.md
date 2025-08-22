@@ -2,7 +2,6 @@
 - 👀 I’m interested in backend programming 
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on backend development
-- 📫 How to reach me 
 - 😄 Pronouns: his
 - ⚡ Fun fact: Writer🖋️
 
